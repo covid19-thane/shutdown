@@ -1,9 +1,11 @@
 ## We are shutting down!
-<img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
+
 <div align="center">
+<img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
 <h2>Hey there <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/Hi.gif" width="30px">, My Name Is Rushi Ranpise.</h2>
-<code>I'm 19 years old</code><br>
-</div>
+<code>I'm 19 years old</code>
+<br>
+
 
 Maintaining this project without much of contributions was really hard!
 
@@ -44,3 +46,4 @@ May 17 2020 - August 11 2020
 
 [Telegram Channel](https://t.me/covid19thanepdates)
 
+</div>
