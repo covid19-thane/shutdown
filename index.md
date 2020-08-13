@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there<img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px"><br><br>My name is <br><br><code>Rushi Ranpise.</code><br><br><code>I'm 19 years old.</code></h2>
+<h2>Hey<img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px"><br><br>My name is <br><br><code>Rushi Ranpise.</code><br><br><code>I'm 19 years old.</code></h2>
 </div>  
 
 Maintaining this project without much of contributions was really hard!
@@ -15,11 +15,11 @@ In case you want to get in touch with me for future collaboration, please find t
 
 I hope that my efforts were helpful to keep you informed.
 
-Stay Home,Stay Safe, Stay Calm, Be Informed.
+### Stay Home , Stay Safe , Stay Calm , Be Informed.
 
 The last snapshot of the dashboard as of 2020-August-11 IST is [here](https://covid19-thane.github.io/snapshot)
 
-May 17 2020 - August 11 2020
+### May 17 2020 - August 11 2020 (86 days)
 
 👪 Visitors:
 
