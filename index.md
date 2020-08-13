@@ -5,7 +5,7 @@
 <h2>Hey there <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/Hi.gif" width="30px">, My Name Is Rushi Ranpise.</h2>
 <code>I'm 19 years old</code>
 <br>
-
+</div>  
 
 Maintaining this project without much of contributions was really hard!
 
@@ -35,7 +35,6 @@ May 17 2020 - August 11 2020
 
 # Special Thanks to All those who help me with the data stuff.
 
-
 ### Support or Contact
 
 [Twitter](https://twitter.com/covid19thane)
@@ -45,5 +44,3 @@ May 17 2020 - August 11 2020
 [Telegram Group](https://t.me/covid19thane)
 
 [Telegram Channel](https://t.me/covid19thanepdates)
-
-</div>
