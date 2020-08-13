@@ -9,7 +9,7 @@ On 21 July, I was tested positive for covid19.
 
 While I was under treatment, one of my friend 
 
-contiuned the updating the dashboard.
+contiuned updating the dashboard.
 
 Though Fortunately, I recovered from it recently.
 
@@ -70,3 +70,6 @@ So think about it before you forward.
 [Telegram Group](https://t.me/covid19thane)
 
 [Telegram Channel](https://t.me/covid19thanepdates)
+
+
+### Thank YOu.
