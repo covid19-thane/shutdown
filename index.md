@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, <br>My name is Rushi Ranpise <br> & <br><code>I'm 19 years old.</code></h2>
+<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, <br>My name is <br><code>Rushi Ranpise</code> <br> & <br><code>I'm 19 years old.</code></h2>
 </div>  
 
 Maintaining this project without much of contributions was really hard!
