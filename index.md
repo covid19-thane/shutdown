@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">,<br><br>My name is <br><br><code>Rushi Ranpise.</code><br><br><code>I'm 19 years old.</code></h2>
+<h2>Hey there<img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px"><br><br>My name is <br><br><code>Rushi Ranpise.</code><br><br><code>I'm 19 years old.</code></h2>
 </div>  
 
 Maintaining this project without much of contributions was really hard!
@@ -21,20 +21,9 @@ The last snapshot of the dashboard as of 2020-August-11 IST is [here](https://co
 
 May 17 2020 - August 11 2020
 
-<div class="pills fadeInUp" class="header fadeInUp" style="animation-delay: 2s;">
-			<button type="button" onclick="window.location.href='https://covid19-thane.github.io/faq/';">F.A.Q</button>
-		</div>
-		<br>
-		<h5 class="table-fineprint fadeInUp" style="animation-delay: 2s; color:#6c757d;">👪 Visitors:&nbsp;
-                                                  <a>
-                                                    <img class="fadeInUp" style="animation-delay: 2s;" src="https://hitwebcounter.com/counter/counter.php?page=7349627&style=0007&nbdigits=8&type=ip&initCount=0" title="Visitors" Alt="Visitors" border="0">
-                                                    </a>
-                                                    <h5 class="table-fineprint fadeInUp" style="animation-delay: 2s; color:#6c757d;">👀 Refreshs:&nbsp;
-                                                      <a>
-                                                        <img class="fadeInUp" style="animation-delay: 2s;" src="https://hitwebcounter.com/counter/counter.php?page=7351848&style=0007&nbdigits=8&type=page&initCount=287" title="Web Counter" Alt="Web Counter" border="0">
-                                                        </a>
-                                                      </h5> </div>
-	</div>
+👪 Visitors:
+
+👀 Refreshs:
 
 ### Special Thanks to Following Projects :-
 
@@ -52,7 +41,7 @@ May 17 2020 - August 11 2020
 
 [Twitter](https://twitter.com/covid19thane)
 
-[Telegram](https://t.me/rushiranpise)
+[Ping me on Telegram](https://t.me/rushiranpise)
 
 [Telegram Group](https://t.me/covid19thane)
 
