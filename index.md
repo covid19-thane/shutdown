@@ -2,8 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, My name is Rushi Ranpise & <code>I'm 19 years old.</code></h2>
-<br>
+<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, My name is Rushi Ranpise & <br><code>I'm 19 years old.</code></h2>
 </div>  
 
 Maintaining this project without much of contributions was really hard!
@@ -22,17 +21,17 @@ The last snapshot of the dashboard as of 2020-August-11 IST is [here](https://co
 
 May 17 2020 - August 11 2020
 
-# Special Thanks to Following Projects :-
+### Special Thanks to Following Projects :-
 
 [Coders-Of-XDA-OT](https://github.com/Coders-Of-XDA-OT/coronaSafety/)
 
 [Covid19India](https://github.com/covid19india/covid19india-react/)
 
-# Special Thanks to Twitter Users :-
+### Special Thanks to Twitter Users :-
 
 [Following Twitter Users](https://twitter.com/Covid19Thane/following)
 
-# Special Thanks to All those who help me with the data stuff.
+### Special Thanks to All those who help me with the data stuff.
 
 ### Support or Contact
 
