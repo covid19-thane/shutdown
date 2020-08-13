@@ -2,8 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, My Name Is Rushi Ranpise.</h2>
-<code>I'm 19 years old</code>
+<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, My name is Rushi Ranpise & <code>I'm 19 years old.</code></h2>
 <br>
 </div>  
 
@@ -11,7 +10,7 @@ Maintaining this project without much of contributions was really hard!
 
 Getting true information and reliable content was also a challenge.
 
-Therefore, I've decided to shutting down this project.
+Therefore, I've decided to shut down this project.
 
 In case you want to get in touch with me for future collaboration, please find the contact details below.
 
