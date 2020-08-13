@@ -21,6 +21,21 @@ The last snapshot of the dashboard as of 2020-August-11 IST is [here](https://co
 
 May 17 2020 - August 11 2020
 
+<div class="pills fadeInUp" class="header fadeInUp" style="animation-delay: 2s;">
+			<button type="button" onclick="window.location.href='https://covid19-thane.github.io/faq/';">F.A.Q</button>
+		</div>
+		<br>
+		<h5 class="table-fineprint fadeInUp" style="animation-delay: 2s; color:#6c757d;">👪 Visitors:&nbsp;
+                                                  <a>
+                                                    <img class="fadeInUp" style="animation-delay: 2s;" src="https://hitwebcounter.com/counter/counter.php?page=7349627&style=0007&nbdigits=8&type=ip&initCount=0" title="Visitors" Alt="Visitors" border="0">
+                                                    </a>
+                                                    <h5 class="table-fineprint fadeInUp" style="animation-delay: 2s; color:#6c757d;">👀 Refreshs:&nbsp;
+                                                      <a>
+                                                        <img class="fadeInUp" style="animation-delay: 2s;" src="https://hitwebcounter.com/counter/counter.php?page=7351848&style=0007&nbdigits=8&type=page&initCount=287" title="Web Counter" Alt="Web Counter" border="0">
+                                                        </a>
+                                                      </h5> </div>
+	</div>
+
 ### Special Thanks to Following Projects :-
 
 [Coders-Of-XDA-OT](https://github.com/Coders-Of-XDA-OT/coronaSafety/)
