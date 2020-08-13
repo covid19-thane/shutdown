@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/covid19-thane/covid19-thane.github.io/blob/master/undraw_clean_up_ucm0.png?raw=true">
-<h2>Hey there <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/Hi.gif" width="30px">, My Name Is Rushi Ranpise.</h2>
+<h2>Hey there <img src="https://raw.githubusercontent.com/rushiranpise/rushiranpise/master/gifs/Hi.gif" width="30px">, My Name Is Rushi Ranpise.</h2>
 <code>I'm 19 years old</code>
 <br>
 </div>  
